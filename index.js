@@ -184,3 +184,16 @@ firstGameContainer.appendChild(firstName);
 const secondName = document.createElement('p');
 secondName.textContent = sname;
 secondGameContainer.appendChild(secondName);
+
+
+// Additional function : search by name
+function searchByName() {
+    deleteChildElements(gamesContainer);
+    const searchText = document.getElementById('search-input').value.toLowerCase();
+    const filterSearch = GAMES_JSON.filter ( (game) => {
+        return game.name.toLowerCase().includes(searchText);
+    });
+    addGamesToPage(filterSearch);
+}
+
+document.getElementById('search-btn').addEventListener('click', searchByName);
