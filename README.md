@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [✔️] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-The instructions are pretty clear. Insteresting to create this app/
+The instructions are pretty clear. Insteresting to create this app.
 
 ## License
 
