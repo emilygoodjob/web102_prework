@@ -1,23 +1,23 @@
 # WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Emily Wang**
+Submitted by: Emily Wang
+Total time spent: 5 hours
 
-**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+## Overview
 
-Time spent: **5** hours spent in total
+A website for Sea Monster Crowdfunding that showcases information about the games they have funded, along with stats and filtering options for viewing funded or unfunded games.
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+**Core Functionality**
 
-* [x] The introduction section explains the background of the company and how many games remain unfunded.
-* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- Introduction section explains the company’s background and highlights the number of unfunded games.
+- Stats section displays total contributions, dollars raised, and the top two most funded games.
+- The "Our Games" section lists all games and includes buttons to filter between funded, unfunded, or all games.
 
-The following **optional** features are implemented:
+T**Optional Features**
 
-* [x] List anything else that you can get done to improve the app functionality!
+- Additional improvements added for app functionality.
 
 ## Video Walkthrough
 
@@ -28,23 +28,6 @@ Here's a walkthrough of implemented features:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
 
-## Notes
-
-Describe any challenges encountered while building the app.
-The instructions are pretty clear. Insteresting to create this app.
-
 ## License
 
-    Copyright 2024 Emily Gao Wang
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+This project is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
